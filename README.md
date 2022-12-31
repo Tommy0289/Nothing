@@ -1,4 +1,4 @@
-# Go Project Example
+# Go Project Examples
 
 This is an example for Go project.
 
