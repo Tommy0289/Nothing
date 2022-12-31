@@ -30,7 +30,7 @@ The project theme is `Property`. I will try to build a Property application, whe
 
 This project is using:
 
-1. PostgreSQL for the main databases
+1. PostgreSQL for the main database
 2. Redis for k/v, user session management, caching. 
 
 ## Getting Started
@@ -40,7 +40,7 @@ This is guide to get started with this project and installing dependencies requi
 ### Requirements
 
 1. Make
-2. Docker Docker-compose
+2. Docker
 3. Soda CLI from [gobuffalo](https://gobuffalo.io/en/docs/db/toolbox). You can install this by using `make install-deps`
 
 ### Create Database And Migrate
