@@ -6,7 +6,7 @@ The motivation behind this project is to learn and broaden my limited knowledge 
 
 ## Designing Project For Industrial Programming
 
-What is industrial programming? [Peter Bourgon](https://peter.bourgon.org/go-for-industrial-programming/) explain the terms, as:
+What is industrial programming?
 
 - In a startup or corporate environment.
 - Within a team where engineers come and go.
